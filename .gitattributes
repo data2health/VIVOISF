@@ -4827,6 +4827,8 @@ src/main/java/edu/uiowa/slis/VIVOISF/utility/SPARQLObject.java -text
 src/main/java/edu/uiowa/slis/VIVOISF/utility/SPARQLPredicate.java -text
 src/main/resources/META-INF/taglib.tld -text
 src/non-packaged-resources/Model.clay -text
+src/non-packaged-resources/VIVOISF.graphql -text
+src/non-packaged-resources/VIVOISF_config.json -text
 src/non-packaged-resources/catalog-v001.xml -text
 src/non-packaged-resources/ontology.statistics -text
 src/non-packaged-resources/thing.owl -text

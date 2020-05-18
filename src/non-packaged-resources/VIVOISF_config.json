@@ -1,0 +1,19 @@
+{
+    "name": "vivo-hgql",
+    "schema": "/Users/eichmann/Documents/Components/workspace/VIVOISF/src/non-packaged-resources/VIVOISF.graphql",
+    "server": {
+        "port": 9090,
+        "graphql": "/graphql",
+        "graphiql": "/graphiql"
+    },
+    "services": [
+        {
+            "id": "vivo-sparql",
+            "type": "SPARQLEndpointService",
+            "url": "http://localhost:3030/vivo/sparql",
+            "graph": "",
+            "user": "",
+            "password": ""
+        }
+    ]
+}
